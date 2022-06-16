@@ -8,3 +8,7 @@ git2022 -- dream team
 **git merge branch_name** -- слияние веток
 
 **git checkout branch_name** -- переход на ветку
+
+**git add** -- добавить файл
+
+**git status** - инфа о текщем состоянии
