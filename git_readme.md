@@ -7,20 +7,16 @@ git2022 -- dream team
 
 **git merge branch_name** -- слияние веток
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 **git checkout branch_name** -- переход на ветку
-=======
+
 **git add** -- добавить файл
->>>>>>> 3br
-=======
+
 **git checkout branch_name** -- переход на ветку
 
 **git add** -- добавить файл
 
 **git status** -- инфа о текщем состоянии
->>>>>>> 4br
 
 **git log** -- история коммитов
 
-вроде все понятно
+*вроде все понятно!*
